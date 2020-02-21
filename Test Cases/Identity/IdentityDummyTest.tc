@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login bawag app framework</description>
+   <name>IdentityDummyTest</name>
+   <tag>regression, smoke</tag>
+   <comment></comment>
+   <testCaseGuid>cfe34f57-c577-40dc-8548-6bffe904392c</testCaseGuid>
+</TestCaseEntity>

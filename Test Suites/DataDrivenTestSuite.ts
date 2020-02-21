@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DataDrivenTestSuite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>64bd205f-975d-4498-909a-d99756168ff1</testSuiteGuid>
+   <testCaseLink>
+      <guid>cccb9bda-0153-49b3-8940-c14956d2b5d9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ApiTests/GetApiDataDriven</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5db8881e-8ccb-47fb-8371-76b20571fb0e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestDataExcel</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>5db8881e-8ccb-47fb-8371-76b20571fb0e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>todoId</value>
+         <variableId>ef9ed66f-37c9-43f1-9e57-794a71e809c8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5db8881e-8ccb-47fb-8371-76b20571fb0e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>title</value>
+         <variableId>b13b00fd-1de6-44ae-bc94-2c639558512d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

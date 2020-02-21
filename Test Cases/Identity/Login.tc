@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login bawag app framework</description>
+   <name>Login</name>
+   <tag>regression, smoke</tag>
+   <comment></comment>
+   <testCaseGuid>82f38260-92da-4440-bbaa-52473b7e3faf</testCaseGuid>
+</TestCaseEntity>
